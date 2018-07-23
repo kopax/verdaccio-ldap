@@ -1,6 +1,6 @@
 {
   "name": "verdaccio-ldap-node-cache",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "LDAP auth plugin for verdaccio with node cache",
   "author": "Alexandre L.",
   "contributor": [
