@@ -1,5 +1,5 @@
 {
-  "name": "verdaccio-ldap",
+  "name": "verdaccio-ldap-fixed-cache",
   "version": "2.3.0",
   "description": "LDAP auth plugin for verdaccio",
   "author": "Alexandre L.",
